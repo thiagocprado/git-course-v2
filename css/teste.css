@@ -1,0 +1,12 @@
+.classe-teste {
+  font-size: 23px;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.classe-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
